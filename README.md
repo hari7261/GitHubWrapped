@@ -3,6 +3,10 @@
 Hey there, code wizard! ✨ Ever wondered what your GitHub journey looks like? Well, wonder no more! GitHub Wrapped is here to transform your code-filled year into a visual extravaganza. Think of it as Spotify Wrapped... but for your code! 💪🚀
 
 
+
+![image](https://github.com/user-attachments/assets/24e04332-60bf-4716-9e0a-dc52957bdeae)
+
+
 ## What’s GitHub Wrapped?
 GitHub Wrapped is your personalized snapshot of the year—a delightful mix of your top repositories, contribution stats, language usage, and more. It's like your year in review, but with 100% more curly braces and semicolons. 🕵️‍♂️✨
 
